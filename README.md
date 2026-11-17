@@ -2,6 +2,18 @@
 
 A tiny, single-file website made with love — a cute bear 🧸 and panda 🐼 hugging while sweet little messages float by. Pure HTML + CSS + JS, no images, no build step.
 
+## 💘 ravindu-valentine.html
+
+A full interactive Valentine's Day surprise website, made just for Ravindu:
+
+1. 💖 Animated opening — "Hey Ravindu!"
+2. 🥺 The classic question — YES ❤️ / a runaway NO 🙈
+3. 💌 Animated envelope with a romantic love letter
+4. 📷 Photo gallery — tap a frame to add photos (saved in the browser)
+5. 💝 Final surprise — "I Love You, Ravindu! Forever and Always ♾️"
+
+Open `ravindu-valentine.html` to play it!
+
 ## ✨ Features
 - 10 sweet hand-written moments
 - Dreamy animated gradient background + floating hearts
