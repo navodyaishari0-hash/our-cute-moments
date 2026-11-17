@@ -14,6 +14,18 @@ A full interactive Valentine's Day surprise website:
 
 Open `valentine-surprise.html` to play it!
 
+## 🌈 friendship-surprise.html
+
+The same magic, but for best friends 💜 — pastel purple/blue theme with stars, rainbows and butterflies:
+
+1. ⭐ Animated opening — "Hey Bestie!"
+2. 🥺 "Are we best friends forever?" — YES 🫂 / a runaway NO 😜
+3. 💌 Animated envelope with a sweet friendship letter
+4. 📷 Memory gallery — "Us 🫂", "Partner in crime 😎" and more
+5. 💜 Final surprise — "Best Friends Forever! To Infinity and Beyond ♾️"
+
+Open `friendship-surprise.html` to play it!
+
 ## ✨ Features
 - 10 sweet hand-written moments
 - Dreamy animated gradient background + floating hearts
