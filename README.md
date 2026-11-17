@@ -22,7 +22,7 @@ The same magic, but for best friends 💜 — pastel purple/blue theme with star
 2. 🥺 "Are we best friends forever?" — YES 🫂 / a runaway NO 😜
 3. 💌 Animated envelope with a sweet friendship letter
 4. 📷 Memory gallery — "Us 🫂", "Partner in crime 😎" and more
-5. 💜 Final surprise — "Best Friends Forever! To Infinity and Beyond ♾️"
+5. 💜 Final surprise — a shy little confession: "From friendship… I dared to feel more 🥺💕"
 
 Open `friendship-surprise.html` to play it!
 
